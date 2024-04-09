@@ -1,4 +1,4 @@
-Steps To run:
+Steps To run: (my-vue-app is the root folder)
 1. Install node.js
 2. Install vue CLI (npm install -g @vue/cli)
 3. Install Docker
